@@ -46,3 +46,37 @@ A self-made dataset was created by researching and compiling Adobe's financials 
    
    - Digital Media products exhibit stronger year-over-year growth compared to Digital Experience, with Creative Cloud showing the most pronounced increase.
    - Regional growth in the Americas is consistent, but Asia and EMEA display more modest increases, signaling potential areas to explore for scaling.
+  
+
+## Growth Drivers
+
+1. **Creative Cloud**
+   
+   - Strong growth in All Apps subscriptions.
+   - High demand for single apps like Photoshop, Illustrator, Lightroom, and Acrobat Pro on Adobe.com.
+   - Introduction of AI-powered tools like Firefly and Adobe Express.
+   - Customers upgrading to higher-value Creative plans at subscription renewals.
+   - Continued momentum in emerging markets driving new subscription growth.
+
+2. **Document Cloud**
+
+   - Increased usage and MAU (Monthly Active Users) of Adobe Reader and Acrobat.
+   - Growth in free-to-paid conversions through Google Chrome and Microsoft Edge integrations.
+   - High demand for Acrobat subscriptions (desktop and mobile).
+   - Monetization of AI-driven Acrobat Assistant driving new subscriptions.
+   - Large deals in the enterprise and public sector segments closing in Q3.
+
+3. **Experience Cloud**
+
+   - Strong growth of Adobe Experience Platform (AEP) and native applications like Adobe Experience Manager and Workfront.
+   - Success in transformational enterprise deals and maintenance of high retention rates.
+   - Expansion of the GenStudio pipeline, addressing content supply chain challenges.
+
+
+## Dashboard
+
+Dashboard can be accessed on Tableau Public https://public.tableau.com/app/profile/gracie.wheeler2243/viz/AdobeRevenueAnalysis/Dashboard1
+
+<img width="898" alt="Screenshot 2024-11-22 at 20 54 38" src="https://github.com/user-attachments/assets/04d3e119-a95b-47d1-bf4e-c5e31d1c8366">
+
+
